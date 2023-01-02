@@ -1,0 +1,1 @@
+# Permutations-Combinations First time here on Github uploading a python file that i made. I have my maths exam soon and the syllabus has permutation and combination . So i decided to make a program out of it 
